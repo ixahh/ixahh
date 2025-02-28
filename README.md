@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **angelicahhugo@gmail.com**
 
-- 📌 Connect with me at [Linkedin: angelicahhugo](https://www.linkedin.com/in/angelicahhugo/)
+- 📌 Connect with me at [LinkedIn: angelicahhugo](https://www.linkedin.com/in/angelicahhugo/)
 
 - 📄 Know about my experiences [Hugo-Resume-2025](https://github.com/ixahh/Resume/blob/main/HUGO-Angelica-H.-Resume_2025.pdf)
   
