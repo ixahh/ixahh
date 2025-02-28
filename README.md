@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Angelica</h1>
+<h1 align="left">Hi 👋, I'm Angelica</h1>
 <h3 align="center">A passionate Computer Engineering Student from the Philippines</h3>
 
 <h3 align="left">Connect with me:</h3>
