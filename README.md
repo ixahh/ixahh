@@ -4,7 +4,7 @@
 - 👯 I’m collaboratively working on [Buoy - Phishing Detection App](https://github.com/SLSU-Turing-Machines)
 
 - 🔭 I'm also currently in the early phase of developing a game [Splash Painting Showdown](https://github.com/ixahh/Splash-Painting-Showdown)
-- 
+  
 - 📫 How to reach me **angelicahhugo@gmail.com**
 
 - 📌 Connect with me at [LinkedIn: angelicahhugo](https://www.linkedin.com/in/angelicahhugo/)
