@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Buoy - Phishing Detection App](https://github.com/SLSU-Turing-Machines)
 
-- 📌 Connect with me at [Linkedin: angelicahhugo/](https://www.linkedin.com/in/angelicahhugo/)
+- 📌 Connect with me at [Linkedin: angelicahhugo](https://www.linkedin.com/in/angelicahhugo/)
 
 - 📫 How to reach me **angelicahhugo@gmail.com**
 
