@@ -1,5 +1,5 @@
 <h1 align="left">Hi, I'm Geli! ⸜(｡˃ ᵕ ˂ )⸝♡</h1>
-<h3 align="left">I'm a 3rd Year Computer Engineering Student from Southern Luzon State University - Main Campus</h3>
+<h3 align="left">I'm a 3rd Year Computer Engineering Student from Southern Luzon State University - Main Campus 💚 </h3>
 
 - 🔭 I’m currently working on [Buoy - Phishing Detection App](https://github.com/SLSU-Turing-Machines)
 
