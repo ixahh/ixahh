@@ -1,7 +1,7 @@
 <h1 align="left">Hi, I'm Geli! ⸜(｡˃ ᵕ ˂ )⸝♡</h1>
 <h3 align="left">I'm a 3rd Year Computer Engineering Student from Southern Luzon State University - Main Campus</h3>
 
-- 👯 I’m collaboratively working on [Buoy - Phishing Detection App](https://buoy.theturingmachines.asia/)
+- 👯 I’m collaboratively working on [Buoy - Phishing Detection App](https://buoy.theturingmachines.asia/) for AppCon 2024
   
 - 📫 How to reach me **angelicahhugo@gmail.com**
 
