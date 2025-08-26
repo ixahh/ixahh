@@ -1,5 +1,5 @@
 <h1 align="left">Hi, I'm Geli! ⸜(｡˃ ᵕ ˂ )⸝♡</h1>
-<h3 align="left">I'm a 3rd Year Computer Engineering Student specializing in Data Analysis, Data Science, Project Management, UI/UX Design, and Software Development.</h3>
+<h3 align="left">I'm a 4th Year Computer Engineering Student specializing in Data Analysis, Data Science, Project Management, UI/UX Design, and Software Development.</h3>
 
 - 🔭 I’m currently working on a self-project related to Data Science 
 
